@@ -21,7 +21,7 @@
 #include <ctime>
 #include <cstdio>
 #include <sys/select.h>
-#define TIMESLEEP 3
+#define TIMESLEEP 10
 using namespace std;
 ofstream myfile;
 
